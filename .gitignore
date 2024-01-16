@@ -1,0 +1,3 @@
+*.obj
+*.png
+/__pycache__/
